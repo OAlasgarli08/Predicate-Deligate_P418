@@ -1,0 +1,14 @@
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\bin\Debug\net6.0\Predicate-Delegate_P418.exe
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\bin\Debug\net6.0\Predicate-Delegate_P418.deps.json
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\bin\Debug\net6.0\Predicate-Delegate_P418.runtimeconfig.json
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\bin\Debug\net6.0\Predicate-Delegate_P418.dll
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\bin\Debug\net6.0\Predicate-Delegate_P418.pdb
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\obj\Debug\net6.0\Predicate-Delegate_P418.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\obj\Debug\net6.0\Predicate-Delegate_P418.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\obj\Debug\net6.0\Predicate-Delegate_P418.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\obj\Debug\net6.0\Predicate-Delegate_P418.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\obj\Debug\net6.0\Predicate-Delegate_P418.dll
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\obj\Debug\net6.0\refint\Predicate-Delegate_P418.dll
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\obj\Debug\net6.0\Predicate-Delegate_P418.pdb
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\obj\Debug\net6.0\Predicate-Delegate_P418.genruntimeconfig.cache
+C:\Users\Omara\OneDrive\Desktop\Predicate-Deligate_P418\Predicate-Delegate_P418\Predicate-Delegate_P418\obj\Debug\net6.0\ref\Predicate-Delegate_P418.dll
